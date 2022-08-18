@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   /* font-family: 'Gilroy';*/
+}
+
+.shape{
+    position: absolute;
+    z-index: -4;
+    max-width: 58%;
+}
+
+.shape_1{
+    right: 0;
+}
+
+.navbar{
+    padding-top: 30px;
+}
+
+.nav-link{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #193C57;
+    margin-right: 34px;
+}
+
+.navbar-nav-img{
+    margin-left: 37px;
+}
+
+.header-img{
+    position: absolute;
+}
+
+.header-title{
+    width: 495px;
+    height: 490px;
+    margin-top: 143px;
+}
+
+.header-h1{
+    color: #193C57;
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 80px;
+}
+
+.header-p{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #193C57;
+    margin-bottom: 20px;
+}
+
+.header-select{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #193C57;
+    opacity: 0.6;
+}
+
+.colors{
+    display: flex;
+    align-items: center;
+}
+
+.color1{
+    background: #FFD440;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 2px solid #FFEBA7;
+    box-shadow: 0px 6px 14px rgba(0, 0, 0, 0.11);
+    margin-right: 10px;
+}
+
+.color2{
+    background: #35ACC9;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    box-shadow: 0px 6px 14px rgba(0, 0, 0, 0.11);
+    margin-right: 10px;
+}
+
+.color3{
+    background: #C10A16;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    box-shadow: 0px 6px 14px rgba(0, 0, 0, 0.11);
+    margin-right: 10px;
+}
+
+.color4{
+    background: #EDAB7B;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    box-shadow: 0px 6px 14px rgba(0, 0, 0, 0.11);
+    margin-right: 20px;
+}
+
+.color-img{
+    margin-left: -15px;
+    margin-top: 10px;
+}
+
+.price{
+    display: flex;
+    margin-top: 50px;
+}
+
+.dol-h5{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color: #193C57;
+}
+
+.dol-span{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #193C57;
+}
+
+.header-btn{
+    width: 120px;
+    height: 46px;
+    background: #FFD440;
+    box-shadow: 0px 4px 17px rgba(255, 212, 64, 0.73);
+    border-radius: 40px;
+    border: none;
+    margin-left: 45px;
+    font-size: 18px;
+    line-height: 22px;
+    padding: 12px 25px;
+}
+
+.distribute{
+    margin-top: 91px;
+}
+
+.distribute-img{
+    margin-top: -15px;
+}
+
+.distribute p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #193C57;   
+    opacity: 0.6;
+    margin-left: 11px;
+}
+
+.distribute-right{
+    margin-left: 33px;
+}

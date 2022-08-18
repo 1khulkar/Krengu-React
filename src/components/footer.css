@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+       /* font-family: 'Gilroy';*/
+}
+
+.footer{
+    margin-top: 93px;
+    padding-top: 70px;
+}
+
+
+.footer-left-p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: #193C57;
+    margin-top: 20px;
+}
+
+
+
+.footer-section{
+    margin-left: 142px;
+}
+
+.footer-section h6{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #193C57;
+}
+
+.footer-item{
+    list-style: none;
+    text-decoration: none;
+}
+
+.footer-link{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 21px;
+    color: #193C57;
+    margin-top: 15px;
+    text-decoration: none;
+    margin-bottom: 31px;
+}
